@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SiteDeVoyage
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.11.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# projet-angular
+il s'agit d'un site de voyage ont le frontend a été effectué avec angular et le backend avec jee 
+>>>>>>> a1dcb35f0e3808953138688b20fe35bf7c5ebcee
